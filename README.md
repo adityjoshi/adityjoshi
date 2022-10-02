@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on -> Open source<br>🌱 I’m currently learning -> Java 
+# 💫 Hi I'm Aditya:
+🔭 Empowering communities via open source<br>🌱 I’m currently learning -> Linux 
 
 
 ## 🌐 Socials:

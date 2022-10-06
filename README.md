@@ -1,5 +1,4 @@
 # 💫 Hi I'm Aditya:
-<img src="https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg" height=300 width = 400 alt="description of gif" /> 
 🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Linux 
 
 

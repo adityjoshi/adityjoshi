@@ -1,3 +1,5 @@
+<img src="/home/user/www/website/example.gif" alt="description of gif" /> 
+
 # 💫 Hi I'm Aditya:
 🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Linux 
 

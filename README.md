@@ -1,5 +1,5 @@
 # 💫 Hi I'm Aditya:
-<img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="description of gif" /> 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="description of gif" /> 
 🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Linux 
 
 

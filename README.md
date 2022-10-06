@@ -1,5 +1,5 @@
 # 💫 Hi I'm Aditya:
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="400" alt="description of gif" /> 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700" height="200" alt="description of gif" /> 
 🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Linux 
 
 

@@ -1,5 +1,5 @@
 # 💫 Hi I'm Aditya:
-🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Linux & WEB DEV
+🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Golang
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
-# 💫 Hi I'm Aditya:
-🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> Golang
+# 💫 Hi I'm Aditya
+🔭 A CS Engineer passionate about **Building Systems** and enjoys delving into the intricacies of **Networking**
 
 
 ## 🌐 Socials:

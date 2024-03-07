@@ -6,7 +6,7 @@ I am a CS Engineer passionate about Building Systems and enjoys delving into the
 
 -   [H-Connect](https://github.com/adityjoshi/H-Connect)- A Hostel Management Full Stack Web App
 -   [GO](https://github.com/adityjoshi/Golang) - Golang
--   [Spring Boot](https://github.com/adityjoshi/Spring) - Java Spring Boot
+-   [Spring Boot](https://github.com/adityjoshi/Spring) - Java SpringBoot
 ###
 
 <h2 align="left"></h2>

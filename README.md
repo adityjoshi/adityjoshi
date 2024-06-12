@@ -4,9 +4,10 @@
 
 I am a CS Engineer passionate about Building Systems and enjoys delving into the intricacies of Networking. I keep diving deep into engineering topics and share my learning across [socials](https://www.linkedin.com/in/adityjoshi/). To put my learning to practice, I keep building things on the side and a few of my learning and  good hobby projects include
 
+-   [T](https://github.com/adityjoshi/t)- a bit torrent client written in Go
 -   [HostelEase](https://github.com/adityjoshi/back-go) - a reimplementation of Hostel Grievance Redressal in Go
 -   [GoCo](https://github.com/adityjoshi/goco) - a lightweight bencoding parser implemented in Go
--   [H-Connect](https://github.com/adityjoshi/H-Connect)- a hostel management full stack web app
+
 
 
 ###

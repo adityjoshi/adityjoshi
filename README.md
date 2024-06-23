@@ -20,9 +20,9 @@ I am a CS Engineer passionate about Building Systems and enjoys delving into the
 
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&redirect=true)
-  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&redirect=true)
 ###
+
 
 <img src="https://raw.githubusercontent.com/adityjoshi/adityjoshi/output/snake.svg" alt="Snake animation" />
 

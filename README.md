@@ -24,7 +24,7 @@ I am a CS Engineer passionate about Building Systems and enjoys delving into the
 ### -->
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cipawfqm2df6cuvrlyobxuoh3a&width=1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cipawfqm2df6cuvrlyobxuoh3a&width=1000&unique=true)
 ###
 
 <img src="https://raw.githubusercontent.com/adityjoshi/adityjoshi/output/snake.svg" alt="Snake animation" />

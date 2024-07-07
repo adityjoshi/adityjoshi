@@ -19,9 +19,7 @@ I am a CS Engineer passionate about Building Systems and enjoys delving into the
 <p align="left"></p>
 
 
-<!--- ### 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cipawfqm2df6cuvrlyobxuoh3a&redirect=true)
-### -->
+
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cipawfqm2df6cuvrlyobxuoh3a&width=1000&unique=true)

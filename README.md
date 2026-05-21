@@ -5,7 +5,6 @@ I am a CS Engineer passionate about Building Systems and enjoys delving into the
 
 -   [TCP-IP-Stack](https://github.com/adityjoshi/tcp-ip-stack)- a TCP-IP-Stack written in C
 -   [T](https://github.com/adityjoshi/t)- a bit torrent client written in Go
--   [HostelEase](https://github.com/adityjoshi/back-go) - a re-implementation of Hostel Grievance Redressal in Go
 -   [GoCo](https://github.com/adityjoshi/goco) - a lightweight bencoding parser implemented in Go
 
 

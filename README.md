@@ -3,6 +3,7 @@
 
 I am a CS Engineer passionate about Building Systems and enjoys delving into the intricacies of Networking. I keep diving deep into engineering topics and share my learning across [socials](https://adityajoshi.me). To put my learning to practice, I keep building things on the side and a few of my learning and good hobby projects include
 
+-   [iDB](https://github.com/adityjoshi/idb)- A toy database built in Golang to understand how redis work internally
 -   [TCP-IP-Stack](https://github.com/adityjoshi/tcp-ip-stack)- a TCP-IP-Stack written in C
 -   [T](https://github.com/adityjoshi/t)- a bit torrent client written in Go
 -   [GoCo](https://github.com/adityjoshi/goco) - a lightweight bencoding parser implemented in Go
